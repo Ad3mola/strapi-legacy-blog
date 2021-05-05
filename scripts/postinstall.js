@@ -14,7 +14,7 @@ async function postinstall() {
       // Change the uuid inside the package.json
       await fs.writeJson(filePath, {
         ...packageJSON,
-        strapi: { uuid: `STRAPI-STARTER-BLOG-PRODUCTION` },
+        strapi: { uuid: `ASOCIAL-BLOGGER-STRAPI-PRODUCTION` },
       });
     }
     else {

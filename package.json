@@ -1,5 +1,5 @@
 {
-  "name": "backend",
+  "name": "asocial-blogger-backend",
   "private": true,
   "version": "0.1.1",
   "description": "A Strapi application",
@@ -37,7 +37,7 @@
     "name": "Hextar"
   },
   "strapi": {
-    "uuid": "STRAPI-STARTER-BLOG"
+    "uuid": "ASOCIAL-BLOGGER-STRAPI"
   },
   "engines": {
     "node": ">=10.0.0",
