@@ -1,7 +1,7 @@
 {
-  "name": "asocial-blogger-backend",
+  "name": "backend",
   "private": true,
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A Strapi application",
   "scripts": {
     "develop": "strapi develop",
@@ -34,10 +34,10 @@
     "unzip-stream": "^0.3.0"
   },
   "author": {
-    "name": "A Strapi developer"
+    "name": "Hextar"
   },
   "strapi": {
-    "uuid": "ASOCIAL-BLOGGER-STRAPI"
+    "uuid": "STRAPI-STARTER-BLOG"
   },
   "engines": {
     "node": ">=10.0.0",
